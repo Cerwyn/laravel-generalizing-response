@@ -1,3 +1,11 @@
+# Medium
+This repository is used in this Medium article [here](https://medium.com/@cerwyneliata.c/laravel-generalizing-api-response-error-handling-85646a195fea)
+## Description
+This repository is an example of generalizing API Response using Traits and error handling.
+## Installation
+Nothing special for the installation, just type `composer install` then it's done.
+Maybe it's best to read the article [here](https://medium.com/@cerwyneliata.c/laravel-generalizing-api-response-error-handling-85646a195fea) for the explanation.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
